@@ -1,0 +1,12 @@
+# Created by Octave 3.8.0, Wed Apr 22 05:24:33 2020 EDT <michaelhyh@Michaels-MacBook-Pro-2.local>
+# name: newScales
+# type: matrix
+# rows: 5
+# columns: 1
+ 240311111.1111111
+ 189873.8888888889
+ 15115.66666666667
+ 856666.6666666666
+ 5384.111111111111
+
+
